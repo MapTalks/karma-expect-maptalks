@@ -22,7 +22,6 @@
   "devDependencies": {
   },
   "peerDependencies": {
-    "expect-maptalks": "*",
-    "karma": "0.9 - 0.13"
+    "expect-maptalks": "*"
   }
 }
