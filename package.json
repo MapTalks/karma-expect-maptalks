@@ -1,15 +1,13 @@
 {
   "name": "karma-expect-maptalks",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Karma adapter for expect-maptalks(https://github.com/MapTalks/expect-maptalks) ",
   "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/MapTalks/karma-expect-maptalks.git"
   },
-  "scripts": {
-
-  },
+  "scripts": {},
   "keywords": [
     "karma",
     "karma-plugin",
@@ -19,8 +17,7 @@
     "mocha"
   ],
   "license": "MIT",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "peerDependencies": {
     "expect-maptalks": "*"
   }
